@@ -31,7 +31,9 @@ The design follows a **mobile-first** approach, focusing on clean UI, smooth ani
 > I personally wrote the code myself and made several modifications and improvements.  
 > This README file was generated with the assistance of AI to improve clarity and presentation.
 
+
 ## 📸 Screenshots
+> 💡 Screenshots are located in the `/Screen Shots of Project/` directory.
 
 ### 🖥️ Desktop View
 
@@ -40,8 +42,6 @@ The design follows a **mobile-first** approach, focusing on clean UI, smooth ani
 ### 📱 Mobile View
 
 ![Mobile Screenshot](/Screen Shots of Project/phone)
-
-> 💡 Screenshots are located in the `/Screen Shots of Project/` directory.
 
 ## 👨‍💻 About the Developer
 
