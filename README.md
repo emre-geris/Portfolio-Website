@@ -26,8 +26,7 @@ The design follows a **mobile-first** approach, focusing on clean UI, smooth ani
 ## ⚠️ Note
 
 > This project was originally created as part of a Udemy course by **Sadık Turan**.  
-> 📚 Inspired by a project in this Udemy course:  
-> [Tailwind CSS: Uygulamalı Projelerle Web Siteni Tasarla (in Turkish)](https://www.udemy.com/course/tailwind-css-dersleri/?couponCode=LOCLZDOFFPTRTRMT)  
+> 📚 [Tailwind CSS: Uygulamalı Projelerle Web Siteni Tasarla (in Turkish)](https://www.udemy.com/course/tailwind-css-dersleri/?couponCode=LOCLZDOFFPTRTRMT)  
 > I personally wrote the code myself and made several modifications and improvements.  
 > This README file was generated with the assistance of AI to improve clarity and presentation.
 
